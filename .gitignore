@@ -1,3 +1,9 @@
+#Visual studio
+.vs/
+x64/
+Debug/
+Release
+
 # Prerequisites
 *.d
 
